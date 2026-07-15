@@ -70,7 +70,7 @@ Enter Fare: 30.00
 
 ### 👨‍💻 Author
 **Vele Phophi**  
-Second-year Computer Science student  
+Computer Science student  
 Focused on modular design, usability, and professional documentation
 
 ---
